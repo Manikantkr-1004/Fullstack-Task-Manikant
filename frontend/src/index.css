@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.notes-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+.notes-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(165, 42, 42, 0.658);
+    border-radius: 15px;
+}
